@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oii✌ Sejam bwm vindos ao meu perfil
 
 <!--
 **Aj172432/Aj172432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
