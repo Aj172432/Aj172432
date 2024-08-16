@@ -1,16 +1,13 @@
-## Oii✌ Sejam bwm vindos ao meu perfil
+### Oii✌ Sejam bem vindos ao meu perfil!!!
 
-<!--
-**Aj172432/Aj172432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Anna Julia
 
-Here are some ideas to get you started:
+- Estou estudando na Alura;
+- Ultilizo essa plataforma como parte da conclusâo das atividades da plataforma Alura;
+- Em breve estarei postando minhas atividades principais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+  ![](https://media1.tenor.com/m/8yQGBBHCHlcAAAAd/boy-math.gif)
+  
+  
